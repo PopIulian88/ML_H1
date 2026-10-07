@@ -1,0 +1,182 @@
+[
+  {
+    "location": "Titan",
+    "rooms": 1,
+    "surface_m2": 26,
+    "floor": 3,
+    "bathrooms": 1,
+    "distance_to_transport_m": 385,
+    "price": 37500.0
+  },
+  {
+    "location": "Titan",
+    "rooms": 1,
+    "surface_m2": 28,
+    "floor": 1,
+    "bathrooms": 1,
+    "distance_to_transport_m": 547,
+    "price": 34500.0
+  },
+  {
+    "location": "Drumul Taberei",
+    "rooms": 1,
+    "surface_m2": 35,
+    "floor": 8,
+    "bathrooms": 1,
+    "distance_to_transport_m": 959,
+    "price": 39700.0
+  },
+  {
+    "location": "Drumul Taberei",
+    "rooms": 3,
+    "surface_m2": 78,
+    "floor": 2,
+    "bathrooms": 2,
+    "distance_to_transport_m": 796,
+    "price": 99100.0
+  },
+  {
+    "location": "Floreasca",
+    "rooms": 3,
+    "surface_m2": 65,
+    "floor": 5,
+    "bathrooms": 2,
+    "distance_to_transport_m": 1336,
+    "price": 117700.0
+  },
+  {
+    "location": "Centru",
+    "rooms": 4,
+    "surface_m2": 104,
+    "floor": 6,
+    "bathrooms": 1,
+    "distance_to_transport_m": 1230,
+    "price": 202400.0
+  },
+  {
+    "location": "Titan",
+    "rooms": 3,
+    "surface_m2": 80,
+    "floor": 0,
+    "bathrooms": 1,
+    "distance_to_transport_m": 692,
+    "price": 115400.0
+  },
+  {
+    "location": "Militari",
+    "rooms": 2,
+    "surface_m2": 59,
+    "floor": 7,
+    "bathrooms": 1,
+    "distance_to_transport_m": 1401,
+    "price": 67100.0
+  },
+  {
+    "location": "Floreasca",
+    "rooms": 3,
+    "surface_m2": 74,
+    "floor": 10,
+    "bathrooms": 1,
+    "distance_to_transport_m": 1347,
+    "price": 138900.0
+  },
+  {
+    "location": "Drumul Taberei",
+    "rooms": 2,
+    "surface_m2": 47,
+    "floor": 10,
+    "bathrooms": 1,
+    "distance_to_transport_m": 1240,
+    "price": 54400.0
+  },
+  {
+    "location": "Dristor",
+    "rooms": 1,
+    "surface_m2": 25,
+    "floor": 5,
+    "bathrooms": 1,
+    "distance_to_transport_m": 921,
+    "price": 30600.0
+  },
+  {
+    "location": "Floreasca",
+    "rooms": 3,
+    "surface_m2": 69,
+    "floor": 10,
+    "bathrooms": 2,
+    "distance_to_transport_m": 392,
+    "price": 130200.0
+  },
+  {
+    "location": "Floreasca",
+    "rooms": 3,
+    "surface_m2": 81,
+    "floor": 9,
+    "bathrooms": 2,
+    "distance_to_transport_m": 841,
+    "price": 150900.0
+  },
+  {
+    "location": "Floreasca",
+    "rooms": 4,
+    "surface_m2": 80,
+    "floor": 1,
+    "bathrooms": 1,
+    "distance_to_transport_m": 1385,
+    "price": 145700.0
+  },
+  {
+    "location": "Titan",
+    "rooms": 4,
+    "surface_m2": 100,
+    "floor": 9,
+    "bathrooms": 2,
+    "distance_to_transport_m": 1183,
+    "price": 134100.0
+  },
+  {
+    "location": "Drumul Taberei",
+    "rooms": 1,
+    "surface_m2": 30,
+    "floor": 8,
+    "bathrooms": 1,
+    "distance_to_transport_m": 646,
+    "price": 40000.0
+  },
+  {
+    "location": "Dristor",
+    "rooms": 1,
+    "surface_m2": 27,
+    "floor": 0,
+    "bathrooms": 1,
+    "distance_to_transport_m": 639,
+    "price": 42000.0
+  },
+  {
+    "location": "Militari",
+    "rooms": 2,
+    "surface_m2": 50,
+    "floor": 10,
+    "bathrooms": 1,
+    "distance_to_transport_m": 711,
+    "price": 59900.0
+  },
+  {
+    "location": "Drumul Taberei",
+    "rooms": 2,
+    "surface_m2": 51,
+    "floor": 8,
+    "bathrooms": 1,
+    "distance_to_transport_m": 1186,
+    "price": 67100.0
+  },
+  {
+    "location": "Drumul Taberei",
+    "rooms": 3,
+    "surface_m2": 72,
+    "floor": 5,
+    "bathrooms": 2,
+    "distance_to_transport_m": 590,
+    "price": 89800.0
+  }
+]
